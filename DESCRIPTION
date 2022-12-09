@@ -1,0 +1,16 @@
+Package: PlotEmAll
+Type: Package
+Title: Plotting Post-Hoc Testing
+Version: 0.0.1
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Functions for plotting data and post-hoc tests, partner package to PostEmAll.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    emmeans,
+    Hmisc,
+    tidyr
+RoxygenNote: 7.2.3
